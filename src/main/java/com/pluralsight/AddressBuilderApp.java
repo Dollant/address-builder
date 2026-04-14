@@ -12,6 +12,11 @@ public class AddressBuilderApp {
         String fullName = readRequired(keyboard, "Full name: ");
         sb.append(fullName).append("\n\n");
 
+        String billStreet = readRequired(keyboard, "Billing street: ");
+        String billCity   = readRequired(keyboard, "Billing City: ");
+        String billState  =
+        String billZip    =
+
 
     }
 
